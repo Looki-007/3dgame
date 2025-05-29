@@ -12,6 +12,6 @@
 
 **Проект писался около 2 месяцев(1-2 раза в неделю)**
 
-![Скрин 1](C:\Users\Looki\foto\play1.jpg)
+![Скрин 1](C:\Users\Looki\OneDrive\Документы\GitHub\3dgame\play1.jpg)
 ![Скрин 2 ](https://drive.google.com/file/d/1hvlbKwE7JXCDerDWqD70JDgH7QIp-lvh/view?usp=drive_link)
 [Видео игрового процесса](https://drive.google.com/file/d/1yDrk5LVjTunlbF3CmdYqvdRzcTgTHt3C/view?usp=drive_link)
